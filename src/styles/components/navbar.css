@@ -1,0 +1,37 @@
+.app-navbar {
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+	padding: 0.5rem 1rem;
+}
+
+.navbar-item {
+	width: 100%;
+	height: 100%;
+}
+
+.brand-item {
+	flex-basis: 32%;
+	justify-content: center;
+	padding: 0.25rem 0.5rem;
+}
+
+.app-title {
+	width: 100%;
+	font-size: 2.1rem;
+	font-weight: 700;
+	color: #8f9c93;
+	padding: 0 0.25rem;
+}
+
+.app-logo {
+	color: #0c94e9;
+	width: 100%;
+	height: 100%;
+}
+
+.search-item {
+	flex-basis: 48%;
+	padding: 0.25rem 0.5rem;
+}
